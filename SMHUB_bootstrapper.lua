@@ -24,7 +24,7 @@ elseif game.PlaceId == 1869597719 then
 elseif game.PlaceId == 16281300371 then
     loadstring(readfile("games/smhubbb.lua"))()
 elseif game.PlaceId == 14915220621 then
-  loadstring(readfile("games/smhubbb.lua"))()
+    loadstring(readfile("games/smhubbb.lua"))()
 elseif game.PlaceId == 15144787112 then
     loadstring(readfile("games/smhubbb.lua"))()
 elseif game.PlaceId == 16581648071 then
