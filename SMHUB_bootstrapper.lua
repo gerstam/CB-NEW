@@ -24,7 +24,7 @@ elseif game.PlaceId == 1869597719 then
 elseif game.PlaceId == 16281300371 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/gerstam/CB-NEW/main/games/smhubbb.lua",true))()
 elseif game.PlaceId == 14915220621 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/gerstam/CB-NEW/main/games/smhubbb.lua",true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/gerstam/CB-NEW/main/games/smhubbb.lua",true))()
 elseif game.PlaceId == 15144787112 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/gerstam/CB-NEW/main/games/smhubbb.lua",true))()
 elseif game.PlaceId == 16581648071 then
